@@ -2,7 +2,7 @@
 
 **Hilbert-Augmented Reinforcement Learning for Multi-Robot Coverage**
 
-## Overview
+## Overview 
 
 This project visualizes how a **Hilbert space-filling curve** can optimize robot coverage of a 2D grid, compared to traditional naive **raster (boustrophedon) scan** patterns. It demonstrates the efficiency gains in path planning, reduced redundancy, and better spatial locality for multi-robot systems.
 
@@ -160,10 +160,4 @@ This is an educational project. Suggestions and improvements are welcome!
 
 This project is provided for educational purposes.
 
-## Author
 
-Created as part of Professor Projects for demonstrating advanced path planning concepts.
-
----
-
-**💡 Tip**: Start with order 2-3 for quick exploration, then scale to order 4 for detailed analysis!
