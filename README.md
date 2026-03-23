@@ -1,4 +1,4 @@
-# 🤖 2D Hilbert Curve Coverage Visualizer
+# 2D Hilbert Curve Coverage Visualizer
 
 **Hilbert-Augmented Reinforcement Learning for Multi-Robot Coverage**
 
@@ -8,12 +8,12 @@ This project visualizes how a **Hilbert space-filling curve** can optimize robot
 
 ## Key Features
 
-- 🌀 **Hilbert Curve Generation** — Visualize space-filling curves at different orders (n = 1, 2, 3, 4)
-- 📊 **Path Comparison** — Side-by-side analysis of Hilbert vs. Raster scanning patterns
-- 📈 **Coverage Metrics** — Coverage efficiency, redundancy rates, and spatial locality scoring
-- 🤖 **Multi-Robot Partitioning** — Partition coverage space using Hilbert index splitting
-- 🎬 **Animated Visualization** — Watch robot paths unfold in real-time with interactive controls
-- 🔧 **Interactive Widgets** — Adjust parameters dynamically to explore different scenarios
+- **Hilbert Curve Generation** — Visualize space-filling curves at different orders (n = 1, 2, 3, 4)
+- **Path Comparison** — Side-by-side analysis of Hilbert vs. Raster scanning patterns
+- **Coverage Metrics** — Coverage efficiency, redundancy rates, and spatial locality scoring
+- **Multi-Robot Partitioning** — Partition coverage space using Hilbert index splitting
+- **Animated Visualization** — Watch robot paths unfold in real-time with interactive controls
+- **Interactive Widgets** — Adjust parameters dynamically to explore different scenarios
 
 ## Concepts Covered
 
@@ -104,10 +104,10 @@ Visualizes how the Hilbert index can efficiently partition a region among multip
 ## How Hilbert Curves Improve Coverage
 
 ### Advantages:
-✅ **Spatial Locality** — Consecutive cells are spatially close, minimizing backtracking  
-✅ **Low Redundancy** — Visits each cell exactly once in optimal cases  
-✅ **Scalability** — Easily extends to higher dimensions and larger grids  
-✅ **Multi-Robot Friendly** — Index-based partitioning enables balanced load distribution  
+**Spatial Locality** — Consecutive cells are spatially close, minimizing backtracking  
+**Low Redundancy** — Visits each cell exactly once in optimal cases  
+**Scalability** — Easily extends to higher dimensions and larger grids  
+**Multi-Robot Friendly** — Index-based partitioning enables balanced load distribution  
 
 ### vs. Raster Scanning:
 - Hilbert curves maintain better spatial coherence
@@ -117,11 +117,11 @@ Visualizes how the Hilbert index can efficiently partition a region among multip
 
 ## Applications
 
-- 🔬 **Autonomous Lawn Mowers** — Efficient grass mowing patterns
-- 🚁 **Drone Coverage** — UAV scanning of terrain or infrastructure
-- 🏭 **Industrial Robots** — Surface inspection and cleaning
-- 🗺️ **Path Planning** — Multi-agent coordination
-- 🛰️ **Satellite Imaging** — Grid-based area scanning
+- **Autonomous Lawn Mowers** — Efficient grass mowing patterns
+- **Drone Coverage** — UAV scanning of terrain or infrastructure
+- **Industrial Robots** — Surface inspection and cleaning
+- **Path Planning** — Multi-agent coordination
+- **Satellite Imaging** — Grid-based area scanning
 
 ## Interactive Widgets
 
